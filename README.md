@@ -1,6 +1,6 @@
 # Reddit User Persona Extractor
 
-This is a Python script that uses the Reddit API (via [PRAW](https://praw.readthedocs.io/)) to collect a Reddit user's recent posts and comments and generate a basic **user persona file** based on their activity.
+This is a Python script that uses the Reddit API (via PRAW) to collect a Reddit user's recent posts and comments and generate a basic **user persona file** based on their activity.
 
 ---
 ## 🚀 Features
