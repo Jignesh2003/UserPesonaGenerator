@@ -10,7 +10,7 @@ reddit = praw.Reddit(
 def extract_username_from_url(url):
     return url.strip("/").split("/")[-1]
 
-def get_user_content(username, limit=2):
+def get_user_content(username, limit=8):
     user = reddit.redditor(username)
     posts = []
     comments = []
