@@ -1,0 +1,20 @@
+User Persona for Reddit User: kojied
+==================================================
+
+Sample Posts:
+- Title: I feel violated by intern season
+  URL: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Body: There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the ...
+
+- Title: H1B holders, what are your thoughts on the narrative that you are being exploited?
+  URL: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+  Body: ...
+
+Sample Comments:
+- Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it...
+  URL: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+- Yeah but it doesn’t seem to affect much though...
+  URL: https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+
